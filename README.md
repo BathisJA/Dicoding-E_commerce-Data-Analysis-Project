@@ -27,3 +27,5 @@ pip install -r requirements.txt
 ```
 streamlit run dasboard/dasboard.py
 ```
+or open this link
+https://dicoding-ecommerce-data-analysis-project.streamlit.app/
